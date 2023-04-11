@@ -1,4 +1,4 @@
-# Hi there, I'm [Nate Bursch] 👋
+# Hi there, I'm Nate Bursch 👋
 
 I'm a coding enthusiast and I love skateboarding with my dog. Welcome to my GitHub profile!
 
