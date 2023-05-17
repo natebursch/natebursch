@@ -28,6 +28,6 @@ I'm a coding enthusiast and I love skateboarding with my dog. Welcome to my GitH
 - I rescued a dog a named her after a video game character from League of Legends
 
 ### 📚 My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=natebursch&show_icons=true)
+[![Nates's GitHub stats](https://github-readme-stats.vercel.app/api?username=natebursch)](https://github.com/natebursch/github-readme-stats)
 
 Thanks for visiting my profile!
