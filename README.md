@@ -4,7 +4,6 @@ I'm a coding enthusiast and I love skateboarding with my dog. Welcome to my GitH
 
 ## 🔭 What I do
 - I am passionate about coding and building things that solve real-world problems.
-- Currently, I am working on building a web application that uses social media to improve your grocery shopping list.
 - I'm constantly learning new technologies and frameworks to improve my skills and build better applications.
 - I also really enjoy creating video games!
 
