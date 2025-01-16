@@ -1,32 +1,56 @@
-# Hi there, I'm Nate Bursch 👋
+# NATE BURSCH
 
-I'm a coding enthusiast and I love skateboarding with my dog. Welcome to my GitHub profile!
+[LinkedIn Profile](https://linkedin.com/in/nate-bursch)
 
-## 🔭 What I do
-- I am passionate about coding and building things that solve real-world problems.
-- I'm constantly learning new technologies and frameworks to improve my skills and build better applications.
-- I also really enjoy creating video games!
+## Skills
 
-## 🌱 What I'm interested in
-- Machine Learning and AI
-- Creating Video Games
-- Space
-- AGILE workflows
+- **Programming Languages & Frameworks**: C#, Python, Flask, JavaScript, Node.js
+- **Tools & Technologies**: Docker, Google Cloud, Apache Airflow, ONNX, Wallaroo, Firebase
+- **Soft Skills**: Critical Thinking, Teamwork, Leadership, Communication
+- **Methodologies**: AGILE
+- **Other**: Documentation, Training, Github, Machine Learning, Cloud Platforms (GCP, Azure, AWS)
 
-## 🏂 What I do for fun
-- Skateboarding with my dog
-- Exploring new hiking trails
-- Playing video games
+## Work Experience
 
-## 📫 How to reach me
-- You can reach me via email: [nate4228@hotmail.com](mailto:nate4228@hotmail.com)
+### Wallaroo Labs  
+**Solutions Engineer**  
+*August 2022 – Present*
 
+- Planned, developed, and tested an alerting app to be used in customer orchestrations for solving analytical issues.
+- Initiated as a student contributor, collaborating on machine learning models using the Wallaroo SDK.
+- Produced diverse Jupyter Lab notebooks and integrated machine learning algorithms into the Wallaroo platform.
+- Developed and validated an ONNX auto-conversion tool.
+- Successfully integrated LSTM solutions and orchestrated live demos for clients.
+- Contributed significantly to comprehensive release testing, ensuring detailed documentation with JIRA.
+- Expedited client DevOps, Data Science, and Machine Learning integration for profit growth.
+- Utilized **Apache Airflow**, **Docker**, **GCP**, **Azure**, and **AWS** to manage and automate pipelines.
 
-## ⚡ Fun fact
-- I have climbed Mt. Fuji in Japan.
-- I rescued a dog a named her after a video game character from League of Legends
+### Patrol Cam - US  
+**Founder**  
+*June 2024 – Present*
 
-### 📚 My Stats
-[![Nates's GitHub stats](https://github-readme-stats.vercel.app/api?username=natebursch)](https://github.com/natebursch/github-readme-stats)
+- Created an edge hardware device with an attached camera to monitor intersections for events.
 
-Thanks for visiting my profile!
+## Projects
+
+### The Hidden Village Online  
+**Software Engineer**  
+*Spring 2024*  
+Technologies: JavaScript, Node.js, Firebase, React
+
+- Developed backend and frontend utilities to successfully manage players.
+- Created backend functionality to create, edit, and play level modules.
+- Developed a streamlined integration process for new clients.
+
+### Other Projects:
+- **Hide n’ Explode**: A multiplayer video game fully released on Steam.
+- **Clash Pandemic**: A Zombie FPS game developed in Unreal Engine.
+- **Clash Invasion**: A puzzle battle simulator game.
+- **PatrolCam**: An AI-powered traffic camera that assists police in finding and tracking crime. (Technologies: Python, HTML, CSS)
+- **Python Stock Trading Robot**: A stock trading bot that uses web scraping to gauge user sentiment and make trades based on user tolerance.
+
+## Education
+
+**Mankato State University**  
+*B.S. in Computer Science, Minor in Mathematics*  
+Magna Cum Laude
