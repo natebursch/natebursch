@@ -1,56 +1,53 @@
-# NATE BURSCH
+NATE BURSCH
 
-[LinkedIn Profile](https://linkedin.com/in/nate-bursch)
 
-## Skills
+WORK EXPERIENCE
 
-- **Programming Languages & Frameworks**: C#, Python, Flask, JavaScript, Node.js
-- **Tools & Technologies**: Docker, Google Cloud, Apache Airflow, ONNX, Wallaroo, Firebase
-- **Soft Skills**: Critical Thinking, Teamwork, Leadership, Communication
-- **Methodologies**: AGILE
-- **Other**: Documentation, Training, Github, Machine Learning, Cloud Platforms (GCP, Azure, AWS)
 
-## Work Experience
 
-### Wallaroo Labs  
-**Solutions Engineer**  
-*August 2022 – Present*
+Wallaroo Labs	August 2022 – Current
+Solutions Engineer
 
-- Planned, developed, and tested an alerting app to be used in customer orchestrations for solving analytical issues.
-- Initiated as a student contributor, collaborating on machine learning models using the Wallaroo SDK.
-- Produced diverse Jupyter Lab notebooks and integrated machine learning algorithms into the Wallaroo platform.
-- Developed and validated an ONNX auto-conversion tool.
-- Successfully integrated LSTM solutions and orchestrated live demos for clients.
-- Contributed significantly to comprehensive release testing, ensuring detailed documentation with JIRA.
-- Expedited client DevOps, Data Science, and Machine Learning integration for profit growth.
-- Utilized **Apache Airflow**, **Docker**, **GCP**, **Azure**, and **AWS** to manage and automate pipelines.
+Designed, developed, and tested an alerting application integrated into customer workflows to identify and resolve analytical issues.
+Created comprehensive end-to-end tutorials for integrating customer models into the Wallaroo platform.
+Developed and validated an ONNX auto-conversion tool to streamline model compatibility.
+Built a large-scale workflow leveraging 11 computer vision models to generate advertising metrics.
+Implemented a utility management model with nightly retraining via orchestrations and assay-based drift monitoring.
+Automated data ingestion using orchestrations to monitor SQS queues and trigger inference pipelines.
+Collaborated with engineering teams to test platform releases and ensure client stability and compatibility.
+Delivered live demos of custom tools, workflows, and integrations to clients.
+Monitored external messaging systems to respond to customer service inquiries and issues.
+Debugged customer clusters to resolve both Wallaroo-related and unrelated issues.
+Designed and implemented solution architecture diagrams tailored to client needs.
+Led end-to-end solution delivery, including model development and deployment, orchestration and connection setup, observability integration, and pipeline testing via SDK and API.
+Utilized tools and platforms such as Apache Airflow, Docker, GCP, Azure, and AWS.
 
-### Patrol Cam - US  
-**Founder**  
-*June 2024 – Present*
+Patrol Cam - US	June 2024 - Current
+Founder
 
-- Created an edge hardware device with an attached camera to monitor intersections for events.
+Designed and built an edge hardware device with an integrated camera to monitor traffic intersections for key events.
+Developed an Audio AI tool to assist detectives in analyzing jail phone calls for potential evidence.
+Building a full-stack web application using Next.js and supporting technologies to deliver an end-to-end user experience.
+Developing a computer vision system to detect boundary crossings and relay real-time alerts to users.
+Deploying a computer vision model capable of identifying vehicles of interest based on make, model, license plate, location, and color.
 
-## Projects
+PROJECTS
 
-### The Hidden Village Online  
-**Software Engineer**  
-*Spring 2024*  
-Technologies: JavaScript, Node.js, Firebase, React
 
-- Developed backend and frontend utilities to successfully manage players.
-- Created backend functionality to create, edit, and play level modules.
-- Developed a streamlined integration process for new clients.
+The Hidden Village Online	Spring 2024
+Software Engineer
+JavaScript, Node.js, Firebase, React
+Developed a backend and frontend utility to successfully manage players.
+Created backend functionality to create, edit and play level modules.
+Developed a streamlined way for new clients to be integrated into the system.
+Other Projects Include:
+Hide n’ Explode : a multiplier video game fully released on Steam
+JWST - Computer Vision Model to detect and identify merging galaxies
+Python Stock Trading Robot : web scraping user sentiment to make trades based on user tolerance. 
 
-### Other Projects:
-- **Hide n’ Explode**: A multiplayer video game fully released on Steam.
-- **Clash Pandemic**: A Zombie FPS game developed in Unreal Engine.
-- **Clash Invasion**: A puzzle battle simulator game.
-- **PatrolCam**: An AI-powered traffic camera that assists police in finding and tracking crime. (Technologies: Python, HTML, CSS)
-- **Python Stock Trading Robot**: A stock trading bot that uses web scraping to gauge user sentiment and make trades based on user tolerance.
+EDUCATION
 
-## Education
 
-**Mankato State University**  
-*B.S. in Computer Science, Minor in Mathematics*  
-Magna Cum Laude
+
+Mankato State University - Magna Cum Laude 	
+B.S. Computer Science - Minor in Mathematics
